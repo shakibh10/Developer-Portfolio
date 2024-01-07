@@ -116,3 +116,16 @@ font-style: normal;
 font-weight: 400;
 line-height: 30px; /* 166.667% */
 }
+
+main{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
